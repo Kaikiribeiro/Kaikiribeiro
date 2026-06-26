@@ -8,7 +8,7 @@
 ---
 
 
-## Sobre mim
+## 💻 Sobre mim
 
 ```yaml
 nome:       Kaiki Ribeiro
@@ -20,7 +20,14 @@ hobby:      Jogos, programação e hardware de PC
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
+
+</div>
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaikiribeiro&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+</div>
 
 <div align="center">
 
@@ -46,20 +53,9 @@ hobby:      Jogos, programação e hardware de PC
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
-
 ---
 
-## GitHub
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaikiribeiro&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
-
----
-
-## Contribuições
+## 🖥️ Contribuições
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kaikiribeiro/Kaikiribeiro/output/github-contribution-grid-snake-dark.svg"/></div>
@@ -67,7 +63,7 @@ hobby:      Jogos, programação e hardware de PC
 ---
 
 
-## Onde me encontrar
+## 📬 Onde me encontrar
 
 <div align="center">
 
