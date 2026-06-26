@@ -53,8 +53,8 @@ hobby:      Jogos, programação e hardware de PC
 ## GitHub
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaikiribeiro&show_icons=true&theme=tokyonight&locale=pt-br"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaikiribeiro&layout=compact&langs_count=8&theme=tokyonight"/>
+  
 </div>
 
 ---
