@@ -62,8 +62,7 @@ hobby:      Jogos, programação e hardware de PC
 ## Contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+<img src="https://raw.githubusercontent.com/Kaikiribeiro/Kaikiribeiro/output/github-contribution-grid-snake-dark.svg"/></div>
 
 ---
 
