@@ -55,7 +55,7 @@ hobby:      Jogos, programação e hardware de PC
 
 ---
 
-## 🖥️ Contribuições
+## 🖥️ Atividade
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Kaikiribeiro/Kaikiribeiro/output/github-contribution-grid-snake-dark.svg"/></div>
