@@ -2,9 +2,9 @@
   <img src="./banner.svg" alt="Kaiki Ribeiro" width="100%"/>
 </div>
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil+%F0%9F%91%8B;Apaixonado+por+c%C3%B3digo+e+tecnologia+%F0%9F%9A%80;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%92%A1)](https://git.io/typing-svg)
- 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil;Apaixonado+por+c%C3%B3digo+e+tecnologia+%F0%9F%9A%80;Sempre+aprendendo%2C+sempre+evoluindo" alt="Typing SVG" />
 </div>
+
 ---
 
 
@@ -72,11 +72,12 @@ hobby:      Jogos, programação e hardware de PC
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaikiribeiro)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaikiiribeiro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaikiribeiro/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaikiiribeiro/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaikiribeiro943@gmail.com)
 
 </div>
+
 
 ---
 
