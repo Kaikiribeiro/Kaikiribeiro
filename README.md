@@ -25,10 +25,8 @@ hobby:      Jogos, programação e hardware de PC
 </div>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaikiribeiro&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-</div>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaikiribeiro&layout=compact&langs_count=8&theme=dark&hide_border=true&hide=cmake"/>
 <div align="center">
 
 ### 💻 Linguagens
