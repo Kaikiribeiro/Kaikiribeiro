@@ -82,5 +82,4 @@ hobby:      Jogos, programação e hardware de PC
 **— Martin Fowler**
 
 
-
 </div>
